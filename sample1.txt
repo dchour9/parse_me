@@ -1,0 +1,24 @@
+              SALE RECEIPT
+Store #11476       eat 01/07/10 16:01:48
+Subway Sandwiches & Salads
+609 N  MILPAS  ST
+MILPAS                    CA 93103
+805-966-3001
+Trans# 137 Clerk 3     RAJVINDERPAL
+Dwr1 TRDT 010710 Reg-ID REG-MAIN
+                    Receipt # 0000103913
+--- ITEM --- QTY       PRICE MEMO  PLU
+HAM&CHEESEfr  1  T $    5.00Add$2FV10225
+DRK-21oz      1  TD$    1.20Add$2FV10002
+CHIPS         1  TD$    0.80Add$2FV10020
+ SOUP         1  T $    1.00       22300
+                    --------
+        SUBTOTAL $      8.00
+       Sales Tx  $      0.70
+                    --------
+EAT-IN   **TOTAL $      8.70
+Cash    AMT TEND $      9.00
+                    --------
+       CHANGE DUE$      0.30
+
+WE THANK YOU AND APPRECIATE YOUR BUSINES

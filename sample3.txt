@@ -1,0 +1,45 @@
+              SALE RECEIPT
+Store #21452       tkc 06/09/11 11:07:52
+Subway Sandwiches & Salads
+Naval Base San Diego
+Fleet Exchange  Bldg.  3301
+San Diego                 CA 92136
+619-544-9342
+  Trans#  96 Clerk 28  Dwr 1 TRDT 060911
+  Receipt # 0001222860 Reg-ID REG-MAIN
+--- ITEM --- QTY       PRICE MEMO  PLU
+CLUB      fs  1    $    8.75       10415
+DRK-21oz      1  TD$    1.50$2COLDM10002
+CHIPS         1   D$    0.75$2COLDM10020
+- 21oz Drk    1  T $   -1.50SBW21  10008
+BTL WATER     1   D$    1.75SBW21  10049
+                    --------
+        SUBTOTAL $     11.25
+       Sales Tx  $      0.00
+                    --------
+TAKE-OUT **TOTAL $     11.25
+CredCardAMT TEND $     11.25
+                    --------
+       CHANGE DUE$      0.00
+
+Take our 1-min survey www.tellsubway.com
+& receive free cookie. Write given code
+
+     Approval No: 008845
+    Reference No: 008845
+      Account No: ************2752
+     Card Issuer: VISA
+          Amount: $11.25
+
+_________________________________
+
+
+
+Take our 1-minute Survey at
+www.tellsubway.com and receive a free
+cookie.  Keep your receipt and write
+your unique coupon code
+here___________________.
+
+Host Order ID: 0513.gFnT
+

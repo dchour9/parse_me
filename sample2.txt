@@ -1,0 +1,42 @@
+              SALE RECEIPT
+Store #24017       tko 07/11/11 16:55:52
+Subway Sandwiches #24017
+1821 E. Cesar Chavez Ave.
+Phone 323-222-6262
+Fax 323-222-6161
+Los Angeles               CA 90033
+
+  Trans# 234 Clerk 13  Dwr 1 TRDT 071111
+  Receipt # 0000307277 Reg-ID REG-MAIN
+--- ITEM --- QTY       PRICE MEMO  PLU
+TUNA      6r  1   D$    3.01$5Soup&10117
+soup          1  TD$    1.99$5Soup&52300
+                    --------
+        SUBTOTAL $      5.00
+       8.75%Tax  $      0.17
+                    --------
+TAKE-OUT **TOTAL $      5.17
+CC-BAMS AMT TEND $      5.17
+                    --------
+       CHANGE DUE$      0.00
+
+NOW OPEN AT 6:00AM !!
+Take 1 min. survey @ www.tellsubway.com
+
+     Approval No: 085619
+    Reference No: 085619
+      Account No: ************7202
+     Card Issuer: VISA
+          Amount: $5.17
+
+_________________________________
+
+
+
+Take our 1-minute Survey at
+www.tellsubway.com and receive a free
+cookie.  Keep your receipt and write
+your unique coupon code
+here___________________.
+
+Host Order ID: 0119.uo9P

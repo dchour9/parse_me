@@ -1,0 +1,50 @@
+              SALE RECEIPT
+Store #2398        tko 09/18/11 11:02:59
+Subway Sandwiches & Salads 2398
+5579 Reseda Blvd
+Phone 818-345-3284
+Fax  818-345-3296
+Tarzana                   CA 91356
+818-345-3284
+  Trans#  33 Clerk 18  Dwr 1 TRDT 091811
+  Receipt # 0000458459 Reg-ID REG-MAIN
+--- ITEM --- QTY       PRICE MEMO  PLU
+TURKEY    6r  1   D$    2.82$5R6FVM10123
+DRK-21oz      1  TD$    1.29$5R6FVM10002
+CHIPS         1   D$    0.89$5R6FVM10020
+$5R6FVM       1    $    0.00$5R6FVM30901
+SUB COOKIE    1    $    0.00       10110
+                    --------
+        SUBTOTAL $      5.00
+       8.75%Tax  $      0.11
+                    --------
+TAKE-OUT **TOTAL $      5.11
+SubCard AMT TEND $      5.11
+                    --------
+       CHANGE DUE$      0.00
+
+Try your sandwich toasted!!
+
+              SUBWAY Card
+
+Card ************9766
+USD 4.04 Redeemed
+Cash Card Balance: USD 0.00
+........................................
+
+              SUBWAY Card
+
+Card ************9808
+USD 1.07 Redeemed
+Cash Card Balance: USD 19.93
+........................................
+
+
+Take our 1-minute Survey at
+www.tellsubway.com and receive a free
+cookie.  Keep your receipt and write
+your unique coupon code
+here___________________.
+
+Host Order ID: 061p.34Gf
+
